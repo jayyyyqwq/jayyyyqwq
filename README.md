@@ -18,9 +18,9 @@ I enjoy hard problems and hands-on coding. I'm looking for internships in **soft
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,pytorch,kotlin,androidstudio,aws,redis,postgres,docker,git" alt="Tech stack">
 </p>
 
-**Backend:** Java, Spring Boot, WebFlux, MySQL, PostgreSQL (PostGIS), Redis
-**AI / ML:** Python, PyTorch, XGBoost, LLM and RAG pipelines
-**Cloud:** AWS (SageMaker, Bedrock, Step Functions, CDK)
+**Backend:** Java, Spring Boot, WebFlux, MySQL, PostgreSQL (PostGIS), Redis<br>
+**AI / ML:** Python, PyTorch, XGBoost, LLM and RAG pipelines<br>
+**Cloud:** AWS (SageMaker, Bedrock, Step Functions, CDK)<br>
 **Mobile:** Android with Kotlin and Jetpack
 
 ## Things I've built
@@ -40,9 +40,3 @@ I'm working my way into these projects:
 
 [Meshery](https://github.com/meshery/meshery) · [Kubeflow](https://github.com/kubeflow/trainer) · [MLflow](https://github.com/mlflow/mlflow) · [Apache Flink](https://github.com/apache/flink) · [Apache Iceberg](https://github.com/apache/iceberg) · [Apache Beam](https://github.com/apache/beam) · [Apache Fineract](https://github.com/apache/fineract) · [Checkstyle](https://github.com/checkstyle/checkstyle) · [OpenVINO GenAI](https://github.com/openvinotoolkit/openvino.genai)
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayyyyqwq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyyyqwq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
