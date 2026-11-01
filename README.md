@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-choukikar-439385328"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Choukikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships">
+  <a href="https://drive.google.com/file/d/1HwkcRHCCUdGlQN-A8ggP4vgqtnbqjwZq/view"><img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships"></a>
 </p>
 
 I enjoy hard problems and hands-on coding. I'm looking for internships in **software engineering, backend, or AI/ML**, somewhere I can contribute, grow, and work with a good team.
